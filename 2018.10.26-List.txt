@@ -1,0 +1,1443 @@
+Last login: Fri Oct 26 16:09:55 on ttys000
+walt:~ walt$ cd ~/Dropbox/GitHub/
+walt:GitHub walt$ ./MyData
+Username: wludwick@gmail.com	
+Password: 
+Loggin successful!
+37.1409453122
+-8.63192230966
+Dump Flower power 51512016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier N0Av1q9RBX1535449757766
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1406913234
+-8.63314265252
+Dump Flower power 51812016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier TzVkMzHNuP1535299997107
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1404057851
+-8.63541277005
+Dump Flower power 1CA22016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier yiS8fE2DmG1534871621291
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1402361988
+-8.63487013094
+Dump Flower power 2F1D2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier I7EF0S7WP71534866900848
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1398404526
+-8.63566548563
+Dump Flower power 5B8B2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 9eTwz2TQy21534851108880
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.139286414
+-8.63587358067
+Dump Flower power 64E82016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier OeuHFYPaes1533055734692
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 52592016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier OAWYcRZzsU1535466594624
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 56542016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 5dBB6jsOvC1535218640150
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 5DF92016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier YZX1vFninD1535466084377
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1393255454
+-8.63201479911
+Dump Flower power A06F2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier b9y2LYwYn51535218609246
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 60CB2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier Smv5FLkJKY1535465889359
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 5C9B2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier kvcJxyIdUf1535465785206
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1392109041
+-8.63093290457
+Dump Flower power 16592016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier nSc3coxo561535220123471
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power C1422016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier RkqUzYNeE51535466664220
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1392061217
+-8.63316141498
+Dump Flower power 60992016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 2s4oP73rSr1535192424694
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 5BC72016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier dPWCr5lAyM1535464859596
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1383739679
+-8.63563728307
+Dump Flower power 642E2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 5ABw42EwZS1535279371573
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 926F2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 2Jpmsf7y5F1535277500911
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power A45D2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 9Ksnvh6eL41535276224824
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 553F2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier R7gLdc27Im1535454199253
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 54AD2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier e816PTeYqx1535275312708
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 6D132016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 3dJ6vzvdhV1535220678916
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 4D8F2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier xPDeeHfVsC1535218472792
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 54B82016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier urazgGULVR1535466001175
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1394539554
+-8.63277766441
+Dump Flower power 4A9D2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier mIhNKJ1OhH1535215566055
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1393913022
+-8.63293890035
+Dump Flower power 5F142016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier I7HZtYJqzw1535193132130
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 46302016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier QQ6doTNm7U1535279369868
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 65C02016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier fKWmN3KTxh1535274748231
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1387543293
+-8.63257025168
+Dump Flower power 9FB72016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 9PZhMsl9sC1535223087989
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1391692983
+-8.63465725651
+Dump Flower power 2D8F2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier Cvg7QlZ48P1535451367123
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1387182447
+-8.63455445394
+Dump Flower power 2D462016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier bFqZZnoxk21535454015361
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 95F52016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 30FPO7dgWk1535276956614
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1408468579
+-8.63132418111
+Dump Flower power 4EFA2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 2UpXZ9qsrK1535450249236
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 05642016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier or2Co8W8C61535299808350
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1392702563
+-8.63614063873
+Dump Flower power 65362016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier Ifw170k66Q1533056569306
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1391359858
+-8.63555584962
+Dump Flower power 65012016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 2OhB59HXPV1533052721808
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 57E52016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier cpTeFaY9631534851911890
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 2CF72016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier THhaiEcVCh1535464654037
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 4E712016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier InxSDe5oWF1535454511688
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 2BB72016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier sylrxxSRsJ1535454001439
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 9FAC2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier SryMpuaXeW1535452958220
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 9FAC2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier QoE3v064za1535278399391
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 2BB72016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier f1Snqh2fyf1535276728531
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 553F2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier djRFA8gxca1535275753221
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 4E712016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier yuMOciJRYm1535274643823
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 07AA2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier tQHAFpT7Nn1535272955044
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power C1422016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier Nz2GMaBx7e1535219291101
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 5DF92016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier Y69xra0PKu1535218120831
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 54B82016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 7l9MNkNuE91535217286853
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 60CB2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier SY57gJOaWf1535216641579
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 5C9B2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier MGEwIWukzA1535215648957
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 41862016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier facu1yQqv61535192738138
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 2CF72016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier bieSqlmbTg1535189252997
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1384509339
+-8.63620087192
+Dump Flower power 926F2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier VmsfTVaWvU1535455620265
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1383959899
+-8.63561140726
+Dump Flower power 9FAC2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 971lMaOAbh1535455037186
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1388996629
+-8.63396241241
+Dump Flower power 08762016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier sUUIJFT7cL1535453451771
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1409019334
+-8.63163603481
+Dump Flower power 5B332016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier NrudXlJXLE1535450050025
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1397135965
+-8.63242603283
+Dump Flower power 08CC2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier xooPS0o4Ad1535217728753
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1392061217
+-8.63316141498
+Dump Flower power 5F9D2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier cBdmhXvyjr1535192256090
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 66C42016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier J1zIe514IJ1535279682786
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 47042016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier agl8HPwFpS1535278218371
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1399404598
+-8.63176123132
+Dump Flower power 5C9B2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 8JTf8eDMhu1535470333956
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1397003976
+-8.63259927053
+Dump Flower power 4BEA2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier KVywlIN6BC1535216699421
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1393913022
+-8.63293890035
+Dump Flower power 52082016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 1Ykhp4jNr91535193731465
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1392061217
+-8.63316141498
+Dump Flower power 06352016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier DCE5cdXtpX1535192093776
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1393103548
+-8.63319748769
+Dump Flower power 536D2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier Mdu87uI2Rp1535191450191
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1391043017
+-8.63357598012
+Dump Flower power 2CF72016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier KDhBY6w3ex1537785253361
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1384940925
+-8.6347610891
+Dump Flower power 7C4B2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier NovY1r8ej51535454249451
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1398819704
+-8.63526069499
+Dump Flower power 41BE2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier kkDlUEz5zD1534850226684
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1396330422
+-8.63564754771
+Dump Flower power 6E452016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 8xzMIS0Eqc1533057778332
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1391371857
+-8.63520334507
+Dump Flower power 671D2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier J4U3lKlFOa1533049255044
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1392988116
+-8.6335526296
+Dump Flower power 321D2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier WUI2nn0kXs1535189281290
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1391308108
+-8.63339052843
+Dump Flower power 31002016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier o2qYk7uYgD1535191040151
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1392978766
+-8.63291060514
+Dump Flower power 39B32016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier j6F3zrWZNk1535470631365
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1399404598
+-8.63176123132
+Dump Flower power 60CB2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier TCFvnJZINF1535470271518
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1399404598
+-8.63176123132
+Dump Flower power 5DF92016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier yjaVD0r6VP1535470143233
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 65BE2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier UTQ9iQp32y1535218909692
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1394840876
+-8.63202461832
+Dump Flower power 58DD2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier sJCZG81o1O1535218842733
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1399404598
+-8.63176123132
+Dump Flower power C1422016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier psrhsvhrJW1535469737665
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1389078636
+-8.63348880862
+Dump Flower power 07AA2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier mGXhZexuNK1536583980883
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1390917129
+-8.63429235456
+Dump Flower power 2EB12016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier ywUpTzoVJg1535451070883
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1387846359
+-8.6349655372
+Dump Flower power 05752016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 92aKeQ9DKG1535452625664
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1389782906
+-8.63424362174
+Dump Flower power FF632016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier hF9nVKFI6P1535453119429
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1387413414
+-8.63422964308
+Dump Flower power 40EA2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 0rdUdViCvx1535453803848
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.139367821
+-8.63262358875
+Dump Flower power 51762016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 1gnNPEMazq1535217387514
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1393443443
+-8.63278556294
+Dump Flower power 94312016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier pUv962F8pH1535216200274
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.138220972
+-8.63524307662
+Dump Flower power 2BB72016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 0wuGkGKKZ71535456384667
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1384628549
+-8.63428816788
+Dump Flower power 54AD2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier o2hzUJIcfj1535456889401
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1384628549
+-8.63428816788
+Dump Flower power 4E712016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier BlYN9wFDHv1535457052190
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1406913234
+-8.63314265252
+Dump Flower power 1BF22016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier CmSxAzgehi1535299936326
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1409286318
+-8.63331844493
+Dump Flower power 6F1C2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier XWK1qUaeW41535299513915
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1408876828
+-8.63402680914
+Dump Flower power CF872016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier KEuEizqP8E1535298576003
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1408710655
+-8.63255301863
+Dump Flower power 95452016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier RHwcYx7K101535449524728
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.138861053
+-8.63523227211
+Dump Flower power 07CF2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier IqQHZSXAIC1535452068090
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1388664862
+-8.63459810006
+Dump Flower power 2D1F2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier X2KKrNKaU61535452887181
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 630F2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier Tv8dtSq9mz1535277593531
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1384628549
+-8.63428816788
+Dump Flower power 553F2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 8xgiIQ6Zt11535456761202
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1397919946
+-8.63458934298
+Dump Flower power 8ED32016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier QW1MIRi3Cs1533058905631
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.140157506
+-8.63127722067
+Dump Flower power 96092016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 75Pso1CQXD1535219775644
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power C1C82016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier QNm3ijpsx31535220989368
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1391022894
+-8.63144746788
+Dump Flower power 5D522016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier HHmLWtfACp1535221024093
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1400534313
+-8.63033387872
+Dump Flower power 6A372016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 5hI12wAFjv1531386302928
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1399404598
+-8.63176123132
+Dump Flower power 54B82016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier qTOCUc1C4a1535470213701
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1390587731
+-8.63489524153
+Dump Flower power 06A92016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 0w8SGavObH1535451584908
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1406913234
+-8.63314265252
+Dump Flower power 09E32016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier KABUoTC0mu1535300345924
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1406928327
+-8.633818629
+Dump Flower power 63392016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 2okL4KwSOz1535298941239
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1392071909
+-8.63173371517
+Dump Flower power A0032016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier ZSSob2wl7N1535221323215
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1393363058
+-8.63313700882
+Dump Flower power 59682016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier GMlIHZ3Woe1535192572102
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1391308108
+-8.63339052843
+Dump Flower power 632D2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 3gv8CwiSgl1535190867317
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1392208837
+-8.63356809767
+Dump Flower power 64422016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier QAHjHbm4wt1535188440361
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1391829204
+-8.63174107132
+Dump Flower power 6D132016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier WJd2bAJl1l1535462201843
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1395843439
+-8.63197293149
+Dump Flower power 56542016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier wutSBwVoDP1535219239783
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1392978766
+-8.63291060514
+Dump Flower power 5BC72016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier QSGOlxu4GS1535470691003
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1393443443
+-8.63278556294
+Dump Flower power 6CD42016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 3cM4q8Cmdb1535216047258
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1393913022
+-8.63293890035
+Dump Flower power 64012016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier E8HPF1N1Py1535193571285
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1399404598
+-8.63176123132
+Dump Flower power 52592016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier bP51T7I4eP1535470022826
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1384628549
+-8.63428816788
+Dump Flower power 65C02016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier MoKTE7kpBl1535456972621
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1383135412
+-8.6348853094
+Dump Flower power A45D2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier btugHA2Mqn1535456523021
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1394539554
+-8.63277766441
+Dump Flower power 41862016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier azAU3s8fqb1535215741828
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1392320114
+-8.63343243219
+Dump Flower power 249F2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 15VPzoVR991535190110536
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 586F2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier LnsQRG3RFc1535222293129
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power FEA82016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier pXor4xm37Z1535277095914
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1385232732
+-8.63510403343
+Dump Flower power 66C42016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier QCXimA0HlX1535454572288
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1391308108
+-8.63339052843
+Dump Flower power 391F2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier FyUNIBCebU1535190533951
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1408710655
+-8.63255301863
+Dump Flower power 533F2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier tax5p6Okho1535449241608
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1409470915
+-8.63364941351
+Dump Flower power 65E02016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier y05c942uCK1535299209934
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 95592016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier c71lkZ0g2A1535299113601
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 31202016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier ciigV4Z3Uf1535277546589
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 4D232016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 78w6hXvI1D1535276168367
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1393363058
+-8.63313700882
+Dump Flower power 00252016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier R72UJzmJf01535192753018
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1398214785
+-8.63214084208
+Dump Flower power 08082016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier kb5zTZkY401535219454442
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1389362971
+-8.63164808578
+Dump Flower power 947E2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier YaOFT1wYaN1535222231822
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1392061217
+-8.63316141498
+Dump Flower power 55E32016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier HuMqUAsiJv1535191722844
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1395201043
+-8.63239301002
+Dump Flower power 61FC2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier n9vymDOacG1535218280769
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1393913022
+-8.63293890035
+Dump Flower power 5FB52016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier o1h1i4QP8e1535193367948
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1392988116
+-8.6335526296
+Dump Flower power 5E322016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier y3ikbOQpYD1535188689637
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1387280674
+-8.63291797671
+Dump Flower power 95B02016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier Ne6qoADmUA1535263656315
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1391308108
+-8.63339052843
+Dump Flower power 33902016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier ln7GJkYJoH1535190707803
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1391344033
+-8.63360349267
+Dump Flower power 5FD82016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier caYV2EkhLP1535188065329
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1389281083
+-8.631702926
+Dump Flower power 58A22016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier UmYVVUTu5F1535222864479
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.140459862
+-8.63525056869
+Dump Flower power 53C22016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier oFWr3ok6EU1534872677149
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1404475397
+-8.63501650938
+Dump Flower power 57662016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier oRdZEjqZC81534873425100
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 96102016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 2GSZ0xQwt61535219432166
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 2E262016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 3th6MKTFWB1535217877515
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1395701307
+-8.63260807928
+Dump Flower power 5D642016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier ddb5C9TadW1535216387975
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 63D42016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier LnzPLFh4Jl1535217493479
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1392061217
+-8.63316141498
+Dump Flower power 4AA52016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier W0fxRKS00W1535191896310
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1392988116
+-8.6335526296
+Dump Flower power 334B2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier GoIyvC38cb1535189050554
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1392320114
+-8.63343243219
+Dump Flower power 5B9E2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier KmHg5KtcKg1535190334384
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1392988116
+-8.6335526296
+Dump Flower power 5E422016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 3ZiZr5cqPW1535188872700
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1403760428
+-8.63521370227
+Dump Flower power FD712016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier Y2WJEk7Ygz1534869616057
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.14018467
+-8.63503453068
+Dump Flower power ACD12016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 8dPz59SEte1534867600026
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 94172016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier syYfkQ8xNC1531386630830
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+0.0
+0.0
+Dump Flower power 640D2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier fI5ZO61PA41534868523233
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1399606587
+-8.63466836005
+Dump Flower power 2CD52016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier Fq2FXgQLM81534849197309
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1395966153
+-8.63483458349
+Dump Flower power 95922016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 0FgVQljsFg1533054246260
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.0720011537
+-8.77515150648
+Dump Flower power 6A222016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier FDCtY3Myk01534956289457
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1404475397
+-8.63501650938
+Dump Flower power 40A02016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier W4XoKIJSwt1534873927047
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1395966153
+-8.63483458349
+Dump Flower power 6DB32016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 5lgSqcOHFA1533055312558
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1404475397
+-8.63501650938
+Dump Flower power 5EC42016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier PntEIJl8sm1534873773800
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1393986997
+-8.63470392679
+Dump Flower power C4882016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier PshDHbDAJL1533050332875
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1404475397
+-8.63501650938
+Dump Flower power 31DD2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier DxuRhI28951534873582880
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.140459862
+-8.63525056869
+Dump Flower power 641D2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier IF46U0xAuo1534873235737
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.140459862
+-8.63525056869
+Dump Flower power 587C2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier YOk9ARZHTb1534873026030
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.140459862
+-8.63525056869
+Dump Flower power FFFD2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier j9rqYf9Yo21534872831735
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.140459862
+-8.63525056869
+Dump Flower power 1E8C2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 1NJjN6QpvM1534872498323
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1404057851
+-8.63541277005
+Dump Flower power 21872016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier Dp4ZyYkwhh1534872315473
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1404057851
+-8.63541277005
+Dump Flower power 37572016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier tiSvZU4Xv81534872148273
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1404057851
+-8.63541277005
+Dump Flower power 33A12016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier JGZlQjZxb61534871984747
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1404057851
+-8.63541277005
+Dump Flower power 676F2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier sWnfofyy9K1534871826986
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1402362149
+-8.63543014896
+Dump Flower power 31362016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 2qkTIALEHg1534871175465
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1402362149
+-8.63543014896
+Dump Flower power 55592016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier QOjz7TCuyU1534870967925
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1402325549
+-8.63535344442
+Dump Flower power 41762016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier qpjvoVkime1534870667080
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1403760428
+-8.63521370227
+Dump Flower power 59F02016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier D0zqgju1ho1534870198551
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1403760428
+-8.63521370227
+Dump Flower power 63B02016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier cBFdbKbHoV1534869946829
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1402968502
+-8.63518289705
+Dump Flower power 0F482016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier Q4lXEbWcrK1534869086737
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1403152509
+-8.63510936988
+Dump Flower power 0F042016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier v9vbFeB7vf1534868821800
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1403152509
+-8.63510936988
+Dump Flower power 716B2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 8c3gu0NhT61534868334994
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1403152509
+-8.63510936988
+Dump Flower power 316E2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier 3hYvj31drJ1534868180078
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1402622336
+-8.63509260149
+Dump Flower power 0F0C2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier MySbD5DVVV1534867996413
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.14018467
+-8.63503453068
+Dump Flower power 5FA92016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier xc0XeoFooL1534867802196
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.14018467
+-8.63503453068
+Dump Flower power 608E2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier pQXMgrvKtg1534867440980
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.14018467
+-8.63503453068
+Dump Flower power 34A32016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier MPOlzrTRqG1534867267756
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.14018467
+-8.63503453068
+Dump Flower power 10992016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier ub684UMsBv1534867121078
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1402361988
+-8.63487013094
+Dump Flower power 4AE22016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier qAReUss1XH1534866678673
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1402361988
+-8.63487013094
+Dump Flower power 5FFA2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier YOQhXfzyzk1534866511713
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1402361988
+-8.63487013094
+Dump Flower power 57382016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier JZ9TXxrjPj1534866346770
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1394273161
+-8.63513556594
+Dump Flower power A4F92016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier jOdiVCQTJT1533051347156
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1394273161
+-8.63513556594
+Dump Flower power 91AA2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier JNuengmuMj1533050904745
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1396613141
+-8.63481873757
+Dump Flower power 67912016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier jw8QLULVYM1533058244803
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1398404526
+-8.63566548563
+Dump Flower power 35E22016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier HF0Z1gIeVp1534850507740
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1399606587
+-8.63466836005
+Dump Flower power 5D172016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier LjM8kSdx3z1534849423584
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1400463053
+-8.63509280903
+Dump Flower power 61DB2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier aJ6E8KbOnk1534851640535
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1400463053
+-8.63509280903
+Dump Flower power 5D462016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier VKTuZBe3Jr1534851436104
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1398404526
+-8.63566548563
+Dump Flower power 11082016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier K1wPau6XEM1534850765904
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1398819704
+-8.63526069499
+Dump Flower power 392B2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier mDOSxUTaS01534849950866
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1399606587
+-8.63466836005
+Dump Flower power 60742016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier slb8cR0rGB1534848896696
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1398819704
+-8.63526069499
+Dump Flower power 3A302016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier eG9zvVzB7z1534849663856
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1394531703
+-8.63081180162
+Dump Flower power 59912016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier oQPpcXdSeR1531387325357
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1394273161
+-8.63513556594
+Dump Flower power 983A2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier FJxIP0Z0VK1533051680469
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1395966153
+-8.63483458349
+Dump Flower power 59FF2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier MGS0mfmt4q1533054943296
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1396330422
+-8.63564754771
+Dump Flower power 6B0C2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier RCVIV2w6qr1533057202798
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1391359858
+-8.63555584962
+Dump Flower power 6C892016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier cfL1L7jw8R1533053993040
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1392702563
+-8.63614063873
+Dump Flower power 9FFC2016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier ugWJA2HRIV1533056324298
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+37.1391365803
+-8.6352043428
+Dump Flower power 6F722016-09-14_hawaii-2.0.3_hardware-config-MP.csv
+ location_identifier fOsHPssg8T1533047994390
+ From: 2018-09-26 16:14:21
+ To:   2018-10-26 16:14:21
+()
+Press Return to finish: 
+walt:GitHub walt$ 

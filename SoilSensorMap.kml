@@ -1,0 +1,5743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ALG_VDL-SoilSensors.kml</name>
+	<StyleMap id="stylemap_id91">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style221</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style0">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id142">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style213</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style231</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style1">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style2">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style17">
+		<IconStyle>
+			<color>ffcf6fff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id45">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style125</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style114</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style21">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style4">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style5">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style6">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id70">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style251</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style219</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id75">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style246</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style289</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style7">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id86">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style281</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style68</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style8">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style9">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style240</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style260</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style10">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style11">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id63">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style73</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style12">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style30">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id67">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style127</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style116</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style13">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style40">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style14">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style15">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id79">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style92</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style42</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style197</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style62</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id72">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style128</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style195</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style16">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style18">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id122">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style19">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id121">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style91</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style229</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style20">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style22">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style23">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style610</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style130</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id138">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style52</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style311</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style24">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style25">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style270</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id51">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style304</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style179</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style26">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style27">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style28">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style29">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style31">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style32">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style194</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style175</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style33">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style34">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id24">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style123</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style35">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id80">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style292</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style224</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id137">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style29</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style206</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style36">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id78">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style78</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style118</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style100">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style37">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style38">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style39">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style218</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style236</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style41">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id48">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style244</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style84</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style42">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style43">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style44">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style258</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style150</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id56">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style211</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style148</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style45">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style46">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style47">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style302</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style83</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style190">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id93">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style285</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style152</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id135">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style93</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style126</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style230">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style48">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style49">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style151</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style245</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style50">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style51">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id124">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style54</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style233</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style52">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style53">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style54">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style55">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style56">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style57">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style58">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id104">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style272</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style65</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style59">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style60">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style107</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style173</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style61">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style190</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style62">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style63">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style64">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id43">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style254</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style249</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id127">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style202</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style65">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style66">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id62">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style25</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style209</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style67">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style200">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id71">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style85</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id55">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style81</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style46</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style68">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style69">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style70">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id83">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style141</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style248</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style71">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id89">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style164</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style237</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id73">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style77</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style61</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style72">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style73">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style74">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id34">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style104</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style96</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style130">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style75">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style76">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style77">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style78">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style79">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style80">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id61">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style176</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style38</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style81">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style82">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style83">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style84">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style85">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style86">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id131">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style277</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style146</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style87">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style88">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style89">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style90">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style91">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style92">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style1110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id146">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style117</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style153</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id47">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style134</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style228</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style93">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style94">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style95">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style96">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id26">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style101</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style296</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style97">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id139">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style312</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style131</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id118">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style139</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style26</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style98">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style99">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style160</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style101">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style610">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style102">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style103">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id52">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style184</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style104">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style240">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style105">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style106">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style107">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style108">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style109">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style300">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style110">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style111">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style112">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style113">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style114">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id99">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style266</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style63</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id44">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style165</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style48</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id130">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style89</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id81">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style196</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style159</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style115">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style116">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style117">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id133">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style193</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id77">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style182</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style174</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style118">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style119">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id41">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style132</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style169</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style120">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style121">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id87">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style56</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style297</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id114">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style43</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style180">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style90</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style31</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id120">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style34</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style98</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style00">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style1210</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id90">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style109</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style217</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style230</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style910</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id129">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style122</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style271</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style122">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style123">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style124">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id108">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style188</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style125">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id53">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style310</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style252</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id42">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style262</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style140">
+		<IconStyle>
+			<color>ffcf6fff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style126">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style127">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style128">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id94">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style154</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style170</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style129">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id60">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style108</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style178</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style131">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style132">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id58">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style214</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style72</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id117">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style222</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id65">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style168</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style298</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style133">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style810">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style134">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style135">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id141">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style210</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style53</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style136">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id25">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style287</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style163</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style204</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style41</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style270">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style710">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style137">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id35">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style167</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style201</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style138">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style139">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style141">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id103">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style124</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style265</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style142">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style143">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id85">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style158</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style150">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style144">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style301</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style133</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style145">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style146">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style147">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style160">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style148">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style149">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style151">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style152">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style153">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style154">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style155">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id1200">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style156">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id95">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style198</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style45</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style157">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style158">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style159">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style161">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style162">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id39">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style138</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style269</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style163">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style164">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id107">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style181</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style241</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id150">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style94</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style143</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style165">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id32">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style279</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id102">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style309</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style69</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style166">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style167">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id148">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style255</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style307</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style168">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style169">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id106">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style119</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style170">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id132">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style299</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style147</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style171">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style172">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id23">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style203</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style250</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style173">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style174">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style64</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style162</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style175">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id84">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style28</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style36</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style176">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id82">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style263</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style172</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style177">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id66">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style192</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style156</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style178">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style290">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id27">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style115</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style106</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style179">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style181">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id109">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style294</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style267</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style182">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style185</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style295</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style183">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style184">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id76">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style74</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style220</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id97">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style70</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style102</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id900">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style232</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style187</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id115">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style103</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style155</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id33">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style259</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style145</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style280</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style180</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style260">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style185">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style186">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style187">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style188">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style189">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style235</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style95</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style191">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style192">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style193">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style194">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style195">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style196">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id59">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style87</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style283</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style197">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id136">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style199</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style37</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style198">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style199">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id88">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style177</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style201">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style202">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style203">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style204">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style205">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style206">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style207">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style208">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style209">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style210">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style211">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style212">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style213">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id145">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style120</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style32</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style214">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id28">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style207</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style60</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style215">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style290</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style257</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style216">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id36">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style57</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style303</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id29">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style273</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style238</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style217">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style157</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style810</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id46">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style227</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style218">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id69">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style278</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style67</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style219">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style910">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style220">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style221">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id116">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style161</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style183</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style222">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style223">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style224">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style225">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style226">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id290">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style44</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style121</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style227">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style228">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style229">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id140">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style149</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style216</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style231">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style232">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style233">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style234">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style2210">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style235">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id128">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style186</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style205</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style236">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style24</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style171</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style237">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style238">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id126">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style113</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style129</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id810">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style305</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style268</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style239">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style241">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style242">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id149">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style80</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style76</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style243">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style244">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style245">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id134">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style247</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style97</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style246">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style247">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style248">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style249">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style250">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style251">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style252">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id1500">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style35</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style142</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style253">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id143">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style308</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style189</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id37">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style105</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style710</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style2210</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style254">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style255">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id54">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style293</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style27</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style256">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style257">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style258">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style259">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style261">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id64">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style288</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style55</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id68">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style212</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style264</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style140</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id96">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style223</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style137</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style262">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style59</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style191</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style263">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style264">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style265">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id500">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style234</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style266">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id49">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style275</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style135</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style280">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id112">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style79</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style39</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style267">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style268">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style269">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id38">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style274</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style33</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style271">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id730">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style313</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style49</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style272">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style273">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id400">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style242</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style71</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id147">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style51</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style58</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style1110">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style274">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style275">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id92">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style239</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style82</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style276">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id600">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style286</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id98">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style112</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style284</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style510">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style277">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style278">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style279">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style281">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style282">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style283">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style284">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style285">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style1210">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style510</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style256</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style286">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style287">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style288">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id111">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style243</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style66</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style289">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style291">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style292">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style293">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style294">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id105">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style47</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style282</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style295">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style296">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style297">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style298">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id123">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style226</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style75</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id119">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style215</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style166</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style299">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id1430">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style99</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style208</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id74">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style88</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style111</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id1340">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style253</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style306</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style301">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style302">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style303">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style304">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style305">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style306">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style307">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style308">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style309">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style310">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style311">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style312">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style313">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id125">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style136</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id190">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style261</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style144</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id113">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style276</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style86</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id57">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style225</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style291</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder xsi:schemaLocation="http://earth.google.com/kml/2.1 http://earth.google.com/kml2.1.xsd">
+		<name>ALG_VDL-SoilSensors</name>
+		<open>1</open>
+		<Folder>
+			<name>SensorLocations</name>
+			<open>1</open>
+			<description>Laps, start and end splits recorded in the activity.</description>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<Folder>
+				<name>Er,Fr,Fw</name>
+				<Placemark>
+					<name>Er-01</name>
+					<description><![CDATA[<i>NB: has been edited</i><br>
+<table width = "320"><tr><td>Time:</td><td>00:01:01</td></tr><tr><td>Distance:</td><td>0.03 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>20.82 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id00</styleUrl>
+					<Point>
+						<coordinates>-8.632846000000001,37.14082,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Er-02</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:18</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>2.95 Feet </td></tr><tr><td>Max Speed:</td><td>19.69 Miles per Hour</td></tr></table>]]></description>
+					<Style>
+						<IconStyle>
+							<scale>1</scale>
+							<Icon>
+								<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+							</Icon>
+							<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+						</IconStyle>
+					</Style>
+					<Point>
+						<coordinates>-8.632560884580016,37.14089054614305,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Er-03</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:21</td></tr><tr><td>Distance:</td><td>0.05 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>15.13 Miles per Hour</td></tr></table>]]></description>
+					<Style>
+						<IconStyle>
+							<scale>1</scale>
+							<Icon>
+								<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+							</Icon>
+							<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+						</IconStyle>
+					</Style>
+					<Point>
+						<coordinates>-8.632254358381033,37.14099439792335,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Er-04</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:03</td></tr><tr><td>Distance:</td><td>0.04 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>15.62 Miles per Hour</td></tr></table>]]></description>
+					<Style>
+						<IconStyle>
+							<scale>1</scale>
+							<Icon>
+								<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+							</Icon>
+							<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+						</IconStyle>
+					</Style>
+					<Point>
+						<coordinates>-8.631910616531968,37.14097193442285,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Er-05</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:05</td></tr><tr><td>Distance:</td><td>0 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>35.95 Miles per Hour</td></tr></table>]]></description>
+					<Style>
+						<IconStyle>
+							<scale>1</scale>
+							<Icon>
+								<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+							</Icon>
+							<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+						</IconStyle>
+					</Style>
+					<Point>
+						<coordinates>-8.631583387032151,37.14093714952469,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Er-06</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:26</td></tr><tr><td>Distance:</td><td>0.04 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>15.37 Miles per Hour</td></tr></table>]]></description>
+					<Style>
+						<IconStyle>
+							<scale>1</scale>
+							<Icon>
+								<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+							</Icon>
+							<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+						</IconStyle>
+					</Style>
+					<Point>
+						<coordinates>-8.631329163908958,37.14087973348796,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Fr01</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:07:19</td></tr><tr><td>Distance:</td><td>0.28 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>3.13 Feet </td></tr><tr><td>Max Speed:</td><td>15.88 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id19</styleUrl>
+					<Point>
+						<coordinates>-8.630331214517355,37.14005570858717,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Fr02</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:25</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>3.01 Feet </td></tr><tr><td>Max Speed:</td><td>19.04 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id2</styleUrl>
+					<Point>
+						<coordinates>-8.630561213940382,37.14008965529501,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Fw01</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:58</td></tr><tr><td>Distance:</td><td>0.05 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>17.53 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id3</styleUrl>
+					<Point>
+						<coordinates>-8.630784172564745,37.13944592513144,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Mn</name>
+				<Placemark>
+					<name>MN01</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:02:41</td></tr><tr><td>Distance:</td><td>0.04 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>15.45 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id190</styleUrl>
+					<Point>
+						<coordinates>-8.634646385908127,37.13998639024794,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>MN02</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:06</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>19.55 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id20</styleUrl>
+					<Point>
+						<coordinates>-8.634915528818965,37.13996149599552,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>MN03</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:46</td></tr><tr><td>Distance:</td><td>0 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>22.63 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id21</styleUrl>
+					<Point>
+						<coordinates>-8.634950900450349,37.13995353318751,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn04</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:10</td></tr><tr><td>Distance:</td><td>0.03 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>20.99 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id22</styleUrl>
+					<Point>
+						<coordinates>-8.635262036696076,37.13991832919419,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn05</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:51</td></tr><tr><td>Distance:</td><td>0 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>29.03 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id23</styleUrl>
+					<Point>
+						<coordinates>-8.635285841301084,37.13991556316614,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn06</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:46</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>12.83 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id24</styleUrl>
+					<Point>
+						<coordinates>-8.635628912597895,37.13986644521356,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn07</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:05</td></tr><tr><td>Distance:</td><td>0 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>19.42 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id25</styleUrl>
+					<Point>
+						<coordinates>-8.635661602020264,37.13985663838685,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn08</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:04:55</td></tr><tr><td>Distance:</td><td>0.14 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>14.89 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id26</styleUrl>
+					<Point>
+						<coordinates>-8.635451886802912,37.14007448405027,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn09</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:11</td></tr><tr><td>Distance:</td><td>0 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>29.94 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id27</styleUrl>
+					<Point>
+						<coordinates>-8.635504022240639,37.14007414877415,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn10</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:31</td></tr><tr><td>Distance:</td><td>0.03 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>21.14 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id28</styleUrl>
+					<Point>
+						<coordinates>-8.635106971487403,37.1401044074446,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn11</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:06</td></tr><tr><td>Distance:</td><td>0 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>24.56 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id290</styleUrl>
+					<Point>
+						<coordinates>-8.635085094720125,37.14010985568166,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn12</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:45</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>1.99 Feet </td></tr><tr><td>Max Speed:</td><td>18.78 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id30</styleUrl>
+					<Point>
+						<coordinates>-8.634736491367221,37.14014547877014,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn13</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:38</td></tr><tr><td>Distance:</td><td>0.03 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>17.32 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id31</styleUrl>
+					<Point>
+						<coordinates>-8.634879738092422,37.14023835025728,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn14</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:17</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>19.82 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id32</styleUrl>
+					<Point>
+						<coordinates>-8.634955510497093,37.1402542758733,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn15</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:36</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>20.68 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id33</styleUrl>
+					<Point>
+						<coordinates>-8.634981578215957,37.14032434858382,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn16</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:51</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>23.76 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id34</styleUrl>
+					<Point>
+						<coordinates>-8.635027594864368,37.14038201607764,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn17</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:47</td></tr><tr><td>Distance:</td><td>0.03 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>2.79 Feet </td></tr><tr><td>Max Speed:</td><td>18.78 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id35</styleUrl>
+					<Point>
+						<coordinates>-8.635022481903434,37.14020817540586,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn18</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:12</td></tr><tr><td>Distance:</td><td>0 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>19.3 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id36</styleUrl>
+					<Point>
+						<coordinates>-8.635027343407273,37.14023063890636,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn19</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:11</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>20.99 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id37</styleUrl>
+					<Point>
+						<coordinates>-8.635032791644335,37.1403097640723,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn20</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:31</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>17.01 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id39</styleUrl>
+					<Point>
+						<coordinates>-8.635098170489073,37.14039660058916,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn21</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:02:48</td></tr><tr><td>Distance:</td><td>0.06 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>17.22 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id400</styleUrl>
+					<Point>
+						<coordinates>-8.635101187974215,37.14020021259785,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn22</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:41</td></tr><tr><td>Distance:</td><td>0 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>20.54 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id41</styleUrl>
+					<Point>
+						<coordinates>-8.635114934295416,37.14023089036345,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn23</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:19</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>21.95 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id42</styleUrl>
+					<Point>
+						<coordinates>-8.63510437309742,37.14031537994742,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn24</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:32</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>20.24 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id43</styleUrl>
+					<Point>
+						<coordinates>-8.635142091661692,37.14038754813373,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn25</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:00</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>17.42 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id44</styleUrl>
+					<Point>
+						<coordinates>-8.635155251249671,37.14019954204559,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn26</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:12</td></tr><tr><td>Distance:</td><td>0 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>20.68 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id45</styleUrl>
+					<Point>
+						<coordinates>-8.635161705315113,37.14021597057581,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn27</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:48</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>21.77 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id46</styleUrl>
+					<Point>
+						<coordinates>-8.635171763598919,37.14029174298048,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn28</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:20</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>22.11 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id47</styleUrl>
+					<Point>
+						<coordinates>-8.635219037532806,37.1403634082526,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn29</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:30</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>19.16 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id48</styleUrl>
+					<Point>
+						<coordinates>-8.635290618985891,37.14024874381721,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn30</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:53</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>22.46 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id49</styleUrl>
+					<Point>
+						<coordinates>-8.635301180183887,37.14036164805293,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn31</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:41</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>19.55 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id500</styleUrl>
+					<Point>
+						<coordinates>-8.635394806042314,37.14022527448833,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn32</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:48</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>35.48 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id51</styleUrl>
+					<Point>
+						<coordinates>-8.635409558191895,37.14027238078415,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn33</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:43</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>27.65 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id52</styleUrl>
+					<Point>
+						<coordinates>-8.635350968688726,37.14034630917013,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn34</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:59</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>22.63 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id53</styleUrl>
+					<Point>
+						<coordinates>-8.635359853506088,37.14040615595877,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn35</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:23</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>23.57 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id54</styleUrl>
+					<Point>
+						<coordinates>-8.635364463552833,37.14045787230134,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn36</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:44</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>22.63 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id55</styleUrl>
+					<Point>
+						<coordinates>-8.635299168527126,37.1404186449945,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn37</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:13</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>20.54 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id56</styleUrl>
+					<Point>
+						<coordinates>-8.63531643524766,37.1404823474586,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn38</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:22</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>20.68 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id57</styleUrl>
+					<Point>
+						<coordinates>-8.635254492983222,37.14042006991804,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn39</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:24</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>19.55 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id58</styleUrl>
+					<Point>
+						<coordinates>-8.635236052796245,37.140480754897,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn40</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:18</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>20.68 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id59</styleUrl>
+					<Point>
+						<coordinates>-8.635179726406932,37.1404204890132,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn41</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:14</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>22.81 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id600</styleUrl>
+					<Point>
+						<coordinates>-8.635189617052674,37.1404791623354,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn42</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:19</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>22.63 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id61</styleUrl>
+					<Point>
+						<coordinates>-8.635129854083061,37.14043029583991,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn43</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:17</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>18.78 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id62</styleUrl>
+					<Point>
+						<coordinates>-8.635130859911442,37.14050246402621,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn44</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:18</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>19.96 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id63</styleUrl>
+					<Point>
+						<coordinates>-8.635059865191579,37.1404323913157,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn45</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:33</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>18.42 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id64</styleUrl>
+					<Point>
+						<coordinates>-8.635053662583232,37.1404979377985,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn46</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:27</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>18.42 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id65</styleUrl>
+					<Point>
+						<coordinates>-8.634984930977225,37.14045166969299,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mn47</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:31</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>20.82 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id66</styleUrl>
+					<Point>
+						<coordinates>-8.634996162727475,37.14051947928965,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Og</name>
+				<Placemark>
+					<name>Og01</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:02:07</td></tr><tr><td>Distance:</td><td>0.07 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>14.59 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id67</styleUrl>
+					<Point>
+						<coordinates>-8.634081110358238,37.14095508679748,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Og02</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:02:28</td></tr><tr><td>Distance:</td><td>0.06 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>4.59 Feet </td></tr><tr><td>Max Speed:</td><td>18.07 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id69</styleUrl>
+					<Point>
+						<coordinates>-8.633692106232047,37.14093404822052,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Og03</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:07</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>18.67 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id68</styleUrl>
+					<Point>
+						<coordinates>-8.633851278573275,37.1406966727227,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Og04</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:39</td></tr><tr><td>Distance:</td><td>0.04 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>21.46 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id70</styleUrl>
+					<Point>
+						<coordinates>-8.63332774490118,37.1408866904676,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Og05</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:29</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>18.2 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id71</styleUrl>
+					<Point>
+						<coordinates>-8.633474847301841,37.14067940600216,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Og06</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:29</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>15.8 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id72</styleUrl>
+					<Point>
+						<coordinates>-8.633162537589669,37.14070874266326,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Og07</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:58</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>16.81 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id730</styleUrl>
+					<Point>
+						<coordinates>-8.633361523970962,37.14050313457847,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Og08</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:03</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>18.07 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id74</styleUrl>
+					<Point>
+						<coordinates>-8.633555732667446,37.14033658616245,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Sb</name>
+				<Placemark>
+					<name>Sb01</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:44</td></tr><tr><td>Distance:</td><td>0.04 Miles </td></tr><tr><td>Elevation Gain:</td><td>4.28 Feet </td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>15.05 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id40</styleUrl>
+					<Point>
+						<coordinates>-8.631051806733012,37.13898290880024,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Sb02</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:09</td></tr><tr><td>Distance:</td><td>0.04 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>18.07 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id50</styleUrl>
+					<Point>
+						<coordinates>-8.631697129458189,37.13894862681627,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Sb03</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:13</td></tr><tr><td>Distance:</td><td>0.03 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>16.06 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id6</styleUrl>
+					<Point>
+						<coordinates>-8.632192835211754,37.13880320079625,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Sb04</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:01</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>5.25 Feet </td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>18.31 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id7</styleUrl>
+					<Point>
+						<coordinates>-8.632558789104223,37.13874938897789,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Sb05</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:38</td></tr><tr><td>Distance:</td><td>0.06 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>15.62 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id8</styleUrl>
+					<Point>
+						<coordinates>-8.632942596450448,37.1387211419642,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Sb06</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:42</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>15.8 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id9</styleUrl>
+					<Point>
+						<coordinates>-8.633273681625724,37.13866573758423,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Sb07</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:27</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>18.07 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id10</styleUrl>
+					<Point>
+						<coordinates>-8.633622536435723,37.13863137178123,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Sb08</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:15</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>3.85 Feet </td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>17.42 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id11</styleUrl>
+					<Point>
+						<coordinates>-8.633931996300817,37.13852433487773,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Sb09</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:16</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>13.76 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id12</styleUrl>
+					<Point>
+						<coordinates>-8.634266601875424,37.13844303041697,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Sb10</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:13</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>14.75 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id13</styleUrl>
+					<Point>
+						<coordinates>-8.63461721688509,37.13835200294852,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Sb11</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:49</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>16.62 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id14</styleUrl>
+					<Point>
+						<coordinates>-8.634931370615959,37.13827505707741,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Sb12</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:59</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>6.89 Feet </td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>15.7 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id15</styleUrl>
+					<Point>
+						<coordinates>-8.635223228484392,37.13819140568376,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Ss</name>
+				<Placemark>
+					<name>Ss01</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:06:10</td></tr><tr><td>Distance:</td><td>0.24 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>13.67 Feet </td></tr><tr><td>Max Speed:</td><td>6.62 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id900</styleUrl>
+					<Point>
+						<coordinates>-8.633612478151917,37.13911140337586,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss02</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:48</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>17.63 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id91</styleUrl>
+					<Point>
+						<coordinates>-8.633593199774623,37.13922028429806,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss03</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:24</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>19.96 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id92</styleUrl>
+					<Point>
+						<coordinates>-8.633576687425375,37.1393234655261,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss04</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:45</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>27.12 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id93</styleUrl>
+					<Point>
+						<coordinates>-8.633515583351254,37.13926998898387,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss05</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:50</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>29.64 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id94</styleUrl>
+					<Point>
+						<coordinates>-8.633525809273124,37.13916102424264,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss06</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:44</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>19.96 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id95</styleUrl>
+					<Point>
+						<coordinates>-8.633449701592326,37.13928163982928,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss07</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:39</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>23.57 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id96</styleUrl>
+					<Point>
+						<coordinates>-8.633466465398669,37.13923797011375,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss08</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:02:53</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>19.82 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id97</styleUrl>
+					<Point>
+						<coordinates>-8.63351047039032,37.13912204839289,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss09</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:01</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>15.88 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id98</styleUrl>
+					<Point>
+						<coordinates>-8.63341324031353,37.13931407779455,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss10</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:42</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>18.31 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id99</styleUrl>
+					<Point>
+						<coordinates>-8.633399410173297,37.13914526626468,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss11</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:42</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>17.01 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id100</styleUrl>
+					<Point>
+						<coordinates>-8.633261695504189,37.13916789740324,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss12</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:43</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>18.2 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id102</styleUrl>
+					<Point>
+						<coordinates>-8.633319865912199,37.13923159986734,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss13</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:39</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>21.46 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id103</styleUrl>
+					<Point>
+						<coordinates>-8.633284075185657,37.13930435478687,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss14</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:11</td></tr><tr><td>Distance:</td><td>0.03 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>18.2 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id104</styleUrl>
+					<Point>
+						<coordinates>-8.633204028010368,37.13931558653712,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss15</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:10</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>22.81 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id105</styleUrl>
+					<Point>
+						<coordinates>-8.633194556459785,37.1392185240984,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss16</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:41</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>21.61 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id106</styleUrl>
+					<Point>
+						<coordinates>-8.633178798481822,37.13934081606567,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss17</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:32</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>20.11 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id107</styleUrl>
+					<Point>
+						<coordinates>-8.633185084909201,37.13925557211041,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss18</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:35</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>19.96 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id108</styleUrl>
+					<Point>
+						<coordinates>-8.633180307224393,37.13916974142194,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss19</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:30</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>19.96 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id109</styleUrl>
+					<Point>
+						<coordinates>-8.633140409365296,37.13934022933245,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss20</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:11</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>18.31 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id110</styleUrl>
+					<Point>
+						<coordinates>-8.633089531213045,37.13928675279021,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss21</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:31</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>18.31 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id112</styleUrl>
+					<Point>
+						<coordinates>-8.63310880959034,37.13919321075082,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss22</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:23</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>17.74 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id113</styleUrl>
+					<Point>
+						<coordinates>-8.633006801828742,37.13921860791743,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss23</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:44</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>18.55 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id114</styleUrl>
+					<Point>
+						<coordinates>-8.633045442402363,37.13937166146934,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss24</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:41</td></tr><tr><td>Distance:</td><td>0.03 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>2.06 Feet </td></tr><tr><td>Max Speed:</td><td>17.01 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id115</styleUrl>
+					<Point>
+						<coordinates>-8.632927592843771,37.1393752656877,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss25</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:54</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>14.98 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id116</styleUrl>
+					<Point>
+						<coordinates>-8.632921054959297,37.13921056129038,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss26</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:28</td></tr><tr><td>Distance:</td><td>0 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>43.54 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id117</styleUrl>
+					<Point>
+						<coordinates>-8.632907895371318,37.13924174197018,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss27</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:25</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>18.55 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id118</styleUrl>
+					<Point>
+						<coordinates>-8.632910158485174,37.13933805003762,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss28</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:45</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>23.36 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id119</styleUrl>
+					<Point>
+						<coordinates>-8.632920049130917,37.13940619491041,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss29</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:29</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>18.07 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id1200</styleUrl>
+					<Point>
+						<coordinates>-8.632812928408384,37.1394809614867,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss30</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:01</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>17.22 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id121</styleUrl>
+					<Point>
+						<coordinates>-8.632793147116899,37.1393097192049,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss31</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:24</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>17.42 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id122</styleUrl>
+					<Point>
+						<coordinates>-8.632735311985016,37.13940259069204,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss32</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:46</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>19.55 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id123</styleUrl>
+					<Point>
+						<coordinates>-8.632664820179343,37.13951541110873,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss33</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:41</td></tr><tr><td>Distance:</td><td>0.03 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>15.88 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id125</styleUrl>
+					<Point>
+						<coordinates>-8.632656522095203,37.13965564034879,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss34</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:05</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>15.54 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id124</styleUrl>
+					<Point>
+						<coordinates>-8.632671106606722,37.13934299536049,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss35</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:56</td></tr><tr><td>Distance:</td><td>0.03 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>17.01 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id126</styleUrl>
+					<Point>
+						<coordinates>-8.632468096911907,37.13968715630472,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss36</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:02:16</td></tr><tr><td>Distance:</td><td>0.07 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>16.24 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id127</styleUrl>
+					<Point>
+						<coordinates>-8.632724415510893,37.13895667344332,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss37</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:40</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>16.81 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id128</styleUrl>
+					<Point>
+						<coordinates>-8.632440185174346,37.13894351385534,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss38</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:19</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>14.44 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id129</styleUrl>
+					<Point>
+						<coordinates>-8.632232397794724,37.13910553604364,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss39</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:33</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>15.62 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id130</styleUrl>
+					<Point>
+						<coordinates>-8.632393581792712,37.13909966871142,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss40</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:26</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>17.01 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id131</styleUrl>
+					<Point>
+						<coordinates>-8.632476143538952,37.13919748552144,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss41</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:52</td></tr><tr><td>Distance:</td><td>0.03 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>17.42 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id132</styleUrl>
+					<Point>
+						<coordinates>-8.63239299505949,37.13949152268469,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss42</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:37</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>17.32 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id133</styleUrl>
+					<Point>
+						<coordinates>-8.632228039205074,37.13939068838954,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss43</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:04</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>17.22 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id1340</styleUrl>
+					<Point>
+						<coordinates>-8.632050426676869,37.13928742334247,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss44</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:46</td></tr><tr><td>Distance:</td><td>0.03 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>17.11 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id135</styleUrl>
+					<Point>
+						<coordinates>-8.631989490240812,37.13938104920089,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss45</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:42</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>17.42 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id136</styleUrl>
+					<Point>
+						<coordinates>-8.632086804136634,37.13945212773979,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss46</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:03</td></tr><tr><td>Distance:</td><td>0.03 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>14.67 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id137</styleUrl>
+					<Point>
+						<coordinates>-8.632169365882874,37.13954223319888,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss47</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:38</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>18.31 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id138</styleUrl>
+					<Point>
+						<coordinates>-8.631926458328962,37.13949353434145,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss48</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:42</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>16.71 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id139</styleUrl>
+					<Point>
+						<coordinates>-8.632015809416771,37.13958548381925,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss49</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:05</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>18.78 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id140</styleUrl>
+					<Point>
+						<coordinates>-8.632187889888883,37.13977399282157,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss50</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:55</td></tr><tr><td>Distance:</td><td>0.03 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>16.62 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id141</styleUrl>
+					<Point>
+						<coordinates>-8.631878430023789,37.13989066891372,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss51</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:07</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>17.32 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id142</styleUrl>
+					<Point>
+						<coordinates>-8.631588835269213,37.14001170359552,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss52</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:04</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>17.97 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id1430</styleUrl>
+					<Point>
+						<coordinates>-8.631298150867224,37.140142461285,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss53</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:02:23</td></tr><tr><td>Distance:</td><td>0.09 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>5.46 Feet </td></tr><tr><td>Max Speed:</td><td>16.34 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id145</styleUrl>
+					<Point>
+						<coordinates>-8.630997827276587,37.1391974017024,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss54</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:02:13</td></tr><tr><td>Distance:</td><td>0.05 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>17.86 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id146</styleUrl>
+					<Point>
+						<coordinates>-8.631302174180746,37.13931919075549,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss55</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:43</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>17.42 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id147</styleUrl>
+					<Point>
+						<coordinates>-8.631480121985078,37.13909011334181,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss56</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:41</td></tr><tr><td>Distance:</td><td>0.05 Miles </td></tr><tr><td>Elevation Gain:</td><td>4.0 Feet </td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>18.07 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id148</styleUrl>
+					<Point>
+						<coordinates>-8.631769381463528,37.13919362984598,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss57</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:09</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>19.3 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id149</styleUrl>
+					<Point>
+						<coordinates>-8.632009606808424,37.13900838978589,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ss58</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:02:58</td></tr><tr><td>Distance:</td><td>0.11 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>15.7 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id1500</styleUrl>
+					<Point>
+						<coordinates>-8.633507201448083,37.13888140395284,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Tn</name>
+				<Placemark>
+					<name>Tn01</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:11</td></tr><tr><td>Distance:</td><td>0 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>19.55 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id0</styleUrl>
+					<Point>
+						<coordinates>-8.63509263843298,37.13918424211442,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TN02</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:39</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>18.07 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id1</styleUrl>
+					<Point>
+						<coordinates>-8.634946458041668,37.13928993791342,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TN03</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:32</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>17.97 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id29</styleUrl>
+					<Point>
+						<coordinates>-8.634715536609292,37.13940426707268,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TN04</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:04:30</td></tr><tr><td>Distance:</td><td>0.11 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>5.29 Feet </td></tr><tr><td>Max Speed:</td><td>16.52 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id38</styleUrl>
+					<Point>
+						<coordinates>-8.635134967043996,37.13945833034813,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TN05</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:02:08</td></tr><tr><td>Distance:</td><td>0.03 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>20.54 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id4</styleUrl>
+					<Point>
+						<coordinates>-8.635415425524116,37.13932589627802,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TN06</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:10</td></tr><tr><td>Distance:</td><td>0.03 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>17.86 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id60</styleUrl>
+					<Point>
+						<coordinates>-8.635749528184533,37.13920779526234,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TN07</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:13</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>22.28 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id5</styleUrl>
+					<Point>
+						<coordinates>-8.635550457984209,37.13914233259857,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TN08</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:03:40</td></tr><tr><td>Distance:</td><td>0.11 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>7.62 Feet </td></tr><tr><td>Max Speed:</td><td>14.37 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id73</styleUrl>
+					<Point>
+						<coordinates>-8.634519148617983,37.13960551656783,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TN09</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:53</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>20.24 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id810</styleUrl>
+					<Point>
+						<coordinates>-8.634824752807617,37.13959478773177,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TN10</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:42</td></tr><tr><td>Distance:</td><td>0.03 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>22.28 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id90</styleUrl>
+					<Point>
+						<coordinates>-8.635231107473373,37.13960643857718,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TN11</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:45</td></tr><tr><td>Distance:</td><td>0.03 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>20.68 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id111</styleUrl>
+					<Point>
+						<coordinates>-8.635587673634291,37.13945606723428,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TN12</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:27</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>21.14 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id120</styleUrl>
+					<Point>
+						<coordinates>-8.635891685262322,37.13929907418787,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TN13</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:00</td></tr><tr><td>Distance:</td><td>0.01 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>20.38 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id134</styleUrl>
+					<Point>
+						<coordinates>-8.636117158457637,37.13929614052176,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TN14</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:56</td></tr><tr><td>Distance:</td><td>0.03 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>23.76 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id143</styleUrl>
+					<Point>
+						<coordinates>-8.635835442692041,37.13960342109203,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TN15</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:17</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>16.06 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id150</styleUrl>
+					<Point>
+						<coordinates>-8.635595133528113,37.13966150768101,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TN16</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:40</td></tr><tr><td>Distance:</td><td>0.04 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>14.44 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id16</styleUrl>
+					<Point>
+						<coordinates>-8.635092806071043,37.13973828591406,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TN17</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:14</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>20.54 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id17</styleUrl>
+					<Point>
+						<coordinates>-8.634842354804277,37.13970576412976,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TN18</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:59</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>15.97 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id18</styleUrl>
+					<Point>
+						<coordinates>-8.634550329297781,37.13983006775379,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Ts</name>
+				<Placemark>
+					<name>Ts01</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:13:51</td></tr><tr><td>Distance:</td><td>0.26 Miles </td></tr><tr><td>Elevation Gain:</td><td>19.94 Feet </td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>16.91 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id75</styleUrl>
+					<Point>
+						<coordinates>-8.63564676605165,37.13839299045503,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ts02</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:24</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>16.62 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id76</styleUrl>
+					<Point>
+						<coordinates>-8.635464292019606,37.13859080336988,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ts03</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:27</td></tr><tr><td>Distance:</td><td>0.03 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>14.98 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id77</styleUrl>
+					<Point>
+						<coordinates>-8.635290116071701,37.13832962326705,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ts04</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:19</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>4.3 Feet </td></tr><tr><td>Max Speed:</td><td>16.52 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id78</styleUrl>
+					<Point>
+						<coordinates>-8.635112335905433,37.13853330351412,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ts05</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:53</td></tr><tr><td>Distance:</td><td>0.04 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>18.07 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id79</styleUrl>
+					<Point>
+						<coordinates>-8.634784687310457,37.13851637206972,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ts06</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:15</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>20.24 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id80</styleUrl>
+					<Point>
+						<coordinates>-8.63455519080162,37.13873128406703,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ts07</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:07</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>20.54 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id81</styleUrl>
+					<Point>
+						<coordinates>-8.63426249474287,37.13881962932646,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ts08</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:03:33</td></tr><tr><td>Distance:</td><td>0.09 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>2.48 Feet </td></tr><tr><td>Max Speed:</td><td>16.52 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id82</styleUrl>
+					<Point>
+						<coordinates>-8.633964518085122,37.13893940672278,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ts09</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:16</td></tr><tr><td>Distance:</td><td>0.03 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>16.52 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id83</styleUrl>
+					<Point>
+						<coordinates>-8.634255202487111,37.13900210335851,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ts10</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:35</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>19.16 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id84</styleUrl>
+					<Point>
+						<coordinates>-8.63460598513484,37.13884972035885,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ts11</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:02:12</td></tr><tr><td>Distance:</td><td>0.04 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>17.74 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id85</styleUrl>
+					<Point>
+						<coordinates>-8.634975040331483,37.13881141506135,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ts12</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:19</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>17.86 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id86</styleUrl>
+					<Point>
+						<coordinates>-8.635262371972203,37.1389024425298,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ts13</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:52</td></tr><tr><td>Distance:</td><td>0.04 Miles </td></tr><tr><td>Elevation Gain:</td><td>6.8 Feet </td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>16.34 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id87</styleUrl>
+					<Point>
+						<coordinates>-8.634915025904775,37.13908516801894,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ts14</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:12</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>17.11 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id88</styleUrl>
+					<Point>
+						<coordinates>-8.63468955270946,37.13920771144331,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ts15</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:06</td></tr><tr><td>Distance:</td><td>0.03 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>15.21 Miles per Hour</td></tr></table>]]></description>
+					<styleUrl>#stylemap_id89</styleUrl>
+					<Point>
+						<coordinates>-8.634303649887443,37.13914509862661,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Wz</name>
+				<Placemark>
+					<name>Wz-01</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:43</td></tr><tr><td>Distance:</td><td>0.03 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>18.42 Miles per Hour</td></tr></table>]]></description>
+					<Style>
+						<IconStyle>
+							<scale>1</scale>
+							<Icon>
+								<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+							</Icon>
+							<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+						</IconStyle>
+					</Style>
+					<Point>
+						<coordinates>-8.635637126863003,37.13820900768042,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Wz-02</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:00:48</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>16.91 Miles per Hour</td></tr></table>]]></description>
+					<Style>
+						<IconStyle>
+							<scale>1</scale>
+							<Icon>
+								<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+							</Icon>
+							<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+						</IconStyle>
+					</Style>
+					<Point>
+						<coordinates>-8.635955723002553,37.13814656250179,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Wz-03</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:25</td></tr><tr><td>Distance:</td><td>0.04 Miles </td></tr><tr><td>Elevation Gain:</td><td>5.59 Feet </td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>19.55 Miles per Hour</td></tr></table>]]></description>
+					<Style>
+						<IconStyle>
+							<scale>1</scale>
+							<Icon>
+								<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+							</Icon>
+							<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+						</IconStyle>
+					</Style>
+					<Point>
+						<coordinates>-8.636191338300705,37.13821370154619,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Wz-04</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:23</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>28.17 Miles per Hour</td></tr></table>]]></description>
+					<Style>
+						<IconStyle>
+							<scale>1</scale>
+							<Icon>
+								<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+							</Icon>
+							<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+						</IconStyle>
+					</Style>
+					<Point>
+						<coordinates>-8.636439694091678,37.13814128190279,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Wz05</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:13:32</td></tr><tr><td>Distance:</td><td>0.61 Miles </td></tr><tr><td>Elevation Gain:</td><td>18.11 Feet </td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>3.27 Miles per Hour</td></tr></table>]]></description>
+					<Style>
+						<IconStyle>
+							<scale>1</scale>
+							<Icon>
+								<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+							</Icon>
+							<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+						</IconStyle>
+					</Style>
+					<Point>
+						<coordinates>-8.636219752952456,37.13838972151279,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Lap 25</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:05:13</td></tr><tr><td>Distance:</td><td>0.14 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>16.34 Miles per Hour</td></tr></table>]]></description>
+					<Style>
+						<IconStyle>
+							<scale>1</scale>
+							<Icon>
+								<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+							</Icon>
+							<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+						</IconStyle>
+					</Style>
+					<Point>
+						<coordinates>-8.635313669219613,37.13831227272749,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Wz06</name>
+					<description><![CDATA[<table width = "320"><tr><td>Time:</td><td>00:01:49</td></tr><tr><td>Distance:</td><td>0.02 Miles </td></tr><tr><td>Elevation Gain:</td><td>--</td></tr><tr><td>Elevation Loss:</td><td>--</td></tr><tr><td>Max Speed:</td><td>26.14 Miles per Hour</td></tr></table>]]></description>
+					<Style>
+						<IconStyle>
+							<scale>1</scale>
+							<Icon>
+								<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+							</Icon>
+							<hotSpot x="0.45" y="0" xunits="fraction" yunits="fraction"/>
+						</IconStyle>
+					</Style>
+					<Point>
+						<coordinates>-8.635951029136777,37.13852207176387,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
