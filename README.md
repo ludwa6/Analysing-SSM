@@ -6,7 +6,7 @@ As participants in this [Citizen Observatory project](https://growobservatory.or
 - Links to other documentation (if not all contained here)
   - [Frequently Asked Questions](/docs/faq.md)
 - List of contributors
-  - the team at [Quinta do Vale da Lama](https://www.valedalama.net)
+  - the team at [Quinta do Vale da Lama](http://www.valedalama.net)
   - in partnership with [GROW Observatory](https://growobservatory.org)
 - Licence
   - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) : Attribution-ShareAlike 4.0 International
