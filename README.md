@@ -3,7 +3,7 @@ As participants in this [Citizen Observatory project](https://growobservatory.or
 
 - About these files, usage
   - the [Sensors Directory](sensors_directory2.csv) is a .csv file that lists all currently deployed sensors, along with some key attributes
-  - [lab_notebook_1](https://github.com/ludwa6/Analysing-SSM/blob/master/lab_notebook_1.ipynb) is a sort of pre-EDA (Exploratory Data Analysis), beginning to make sense of [data from the sensors](sensor_data2)
+  - [lab_notebook_1](https://github.com/ludwa6/Analysing-SSM/blob/master/lab_notebook_1.ipynb) is a sort of pre-EDA (Exploratory Data Analysis), beginning to make sense of [data from the sensors](sensor_data2/)
 
 - Links to other documentation (if not all contained here)
   - [Frequently Asked Questions](/docs/faq.md)
